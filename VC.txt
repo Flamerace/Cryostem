@@ -1,2 +1,2 @@
-version=1/|\
+version=1
 link=https://drive.google.com/uc?export=download&id=141Ldc8M4tdYNOBJKTb5EITkeyXkyNclj
